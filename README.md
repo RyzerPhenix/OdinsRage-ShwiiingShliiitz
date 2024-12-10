@@ -16,12 +16,12 @@ This projects, its specifications and all names and logos are property of RyzerI
 - [Software Template](#Software-Template)
 - [Library](#Library)
 
-#Introduction
+# Introduction
 
-#Pinout
+# Pinout
 
-#Hardware-Template
+# Hardware-Template
 
-#Software-Template
+# Software-Template
 
-#Library
+# Library
